@@ -1,6 +1,6 @@
 import React from 'react'
-import SelectedOptions from './SelectedOptions';
-import SummaryTotal from './SummaryTotal'
+import SelectedOptions from '../SelectedOptions/SelectedOptions.js';
+import SummaryTotal from '../SummaryTotal/SummaryTotal.js'
 
 
 export default function Cart(props) {

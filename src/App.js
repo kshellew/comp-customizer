@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Customizer from './Customizer'
-import Cart from './Cart'
+import Customizer from './Customizer/Customizer.js'
+import Cart from './Cart/Cart.js'
 import './App.css';
 
 // This object will allow us to

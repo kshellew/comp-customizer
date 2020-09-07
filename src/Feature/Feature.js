@@ -1,5 +1,5 @@
 import React from 'react';
-import FeatureItem from './FeatureItem'
+import FeatureItem from '../FeatureItem/FeatureItem.js'
 
 export default function SelectHardware(props) {
     const featureHash = props.feature + '-' + props.idx;
